@@ -1,5 +1,11 @@
 git clone https://github.com/thisisjaskaran/vecros_ransac.git
 
-chmod 770 ransac.py
+for code written from scratch
 
+chmod 770 ransac.py
 ./ransac.py
+
+for code implemented using open3d
+
+chmod 770 plane_fitting.py
+./plane_fitting.py
