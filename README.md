@@ -1,4 +1,4 @@
-### Plane Segmentation
+### vecros_ransac
 
 To run the code
 ```
